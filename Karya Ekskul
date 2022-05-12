@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Starter Pokemon</title>
+        <body>
+            <a href=>7119</a>
+            <a href=>Ryu</a>
+            <h1 style="color: white">Starter Pokemon List</h>
+        <img src="c:\Pokemon\All Starter.jpg" width="1000px">
+            <p style="color: rgb(255, 255, 255);">Kanto Starters
+            - Charmander 
+            - Bulbasaur
+            - Squirtle 
+            </p>
+            <p>Johto Starters
+            - Cyndaquill
+            - Totodile
+            - Chikorita
+            </p>
+            <p>Hoenn Starters
+            - Treecko
+            - Torchic
+            - Mudkip
+            </p>
+            <p>Sinnoh Starters
+            - Piplup
+            - Chimchar
+            - Turtwig
+            </p>
+            <p>Unova Starters
+            - Snivy
+            - Tepig
+            - Oshawott
+            </p>
+            <p>Kalos Starters
+            - Fennekin
+            - Froakie
+            - Chespin
+            </p>
+            <p>Alola Starters
+            - Rowlet
+            - Popplio
+            - Litten
+            </p>
+            <p>Galar Starters
+            - Grookey
+            - Sobble
+            - Scorbunny
+            </p>
+        </body>
+        <body style="background-color: red;"></body>
+    </head>
+</html>
